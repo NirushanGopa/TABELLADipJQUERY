@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+} 
+
+.table-titolo *{
+    padding: 5px;
+    width: 20rem;
+    color: black;
+    text-align: center;
+
+}
+
+.table-titolo {
+    padding: 0;
+    margin: 0;
+    border: 0px;
+}  
+
+.table td,
+.table th{
+    text-align: center;
+}
+
+.table{
+    border: 3px solid black;
+}
+     
